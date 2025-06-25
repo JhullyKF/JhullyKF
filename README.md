@@ -2,7 +2,6 @@
 
 🎓 **Estudante de Ciência da Computação** (4º semestre)  
 💼 **Estagiária de SW QA** na True Work  
-🌐 **Apaixonada por tecnologia, aprendizado contínuo e novos desafios!**
 
 ---
 
