@@ -8,31 +8,29 @@
 
 ## 🚀 Sobre Mim
 
-Atualmente, curso Ciência da Computação e estou no meu 4º semestre, onde tenho explorado diversas áreas da computação, desde redes até desenvolvimento web. Trabalho como estagiária de SW QA em uma startup inovadora chamada True Work, onde aprimoro minhas habilidades em qualidade de software e testes.
+Atualmente, curso Ciência da Computação e estou no meu 4º semestre, onde tenho explorado diversas áreas da computação, desde redes até desenvolvimento web, com interesse principal em desenvolvimento backend, especialmente com a linguagem Java. Trabalho como estagiária de SW QA em uma startup inovadora chamada True Work, onde aprimoro minhas habilidades em qualidade de software e testes de Redes GPON.
 
 ---
 
 ## 🛠️ Principais Habilidades
 
 - **Java** (nível intermediário, sempre aprendendo!)
-- **Python** (projeto YOLO e automações)
+- **Python** (básico)
 - **Redes de Computadores**
-- **C** (diversos projetos acadêmicos)
-- **Desenvolvimento Web:**  
-  - JavaScript, HTML, CSS
-- **Banco de Dados:**  
-  - Já trabalhei com MySQL na faculdade
-
+- **C** 
+- **JavaScript, HTML, CSS**  
+- **MySQL**
+  
 ---
 
 ## 💡 Projetos Favoritos
 
 - **Sistema Java com MVC**  
-  Projeto próprio usando arquitetura MVC e persistência de dados. Próxima etapa: integração com banco de dados!
+  Projeto colaborativo de uma loja virtual usando arquitetura MVC e persistência de dados. Próxima etapa: integração com banco de dados.
 - **YOLO com Python**  
-  Treinamento de modelo YOLO para reconhecimento de objetos.
+  Treinamento de modelo YOLO para reconhecimento de pessoas em alto-mar (visão computacional com foco em salvamento aquático).
 - **Projetos Web**  
-  Diversos projetos usando JavaScript, HTML e CSS.
+  Projeto colaborativo de catálogo virtual utilizando JavaScript, HTML e CSS.
 
 ---
 
